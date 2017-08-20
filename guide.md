@@ -11,3 +11,6 @@
 1. 查看当前状态，git status
 2. 查看本地commit id, git log
 3. 查看working directory和staging暂存区的代码区别
+
+*廖雪峰的Git教程
+	https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
