@@ -6,3 +6,5 @@ Git tracks changes of files.
 Add one sentece
 
 Add two sentences.
+
+Git has a mutable index called stage.
