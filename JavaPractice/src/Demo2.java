@@ -1,3 +1,14 @@
+/*
+ 题目：打印出如下图案（菱形）:
+    *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+ */
+
 public class Demo2 {
 	public static void main(String[] args) {
 		int lay;
@@ -24,7 +35,7 @@ public class Demo2 {
 				System.out.print(" ");
 			}
 			
-			for (int c =0; c< 4-2*d +1;c++ ) // ;输出下半个三角形
+			for (int c =0; c< 4-2*d +1;c++ ) // 输出下半个三角形
 			{
 				System.out.print("*");
 			}
